@@ -1,0 +1,39 @@
+body {
+  /* padding: 20px; */
+  margin: 0;
+  background-color: #f9e4b7;
+  font-family: "Roboto";
+}
+
+h1 {
+  font-family: 'Rubik Dirt', cursive;
+  font-weight: normal;
+  color: #6a94cc;
+  font-size: 5em;
+  margin: 0;
+  text-align: center;
+  padding-top: .5em;
+}
+
+h2 {
+  font: normal 3.5em "Slabo 27px", Garamond, Times, serif;
+  color: rgb(37, 76, 143);
+  border-bottom: 1px solid rgb(16, 15, 15);
+  margin-top: 25px;
+}
+
+.text {
+    padding: 20px;
+}
+h3 {
+    font-family: 'Alkalami';
+}
+#footer {
+    background-color: antiquewhite;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+
